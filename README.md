@@ -41,3 +41,9 @@ This API solves the backend part of the game, and it is consumed only by an Andr
   - If available, we should implement a webhook to receive match scores updates from this service
 - All endpoints should have authentication implemented to make sure players can only see, make, and update their own predictions / tournaments
 - There is a Docker compose file that spins up a local MySQL instance
+
+### Endpoints
+[link](endpoints.md)
+
+### Progress
+[link](todos.md)
